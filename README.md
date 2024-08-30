@@ -1,7 +1,7 @@
 
 # Bunker Boys
 
-A brief description of what this project does and who it's for
+A text adventure with a highly-repeatable template system
 
 
 ## Screenshots
@@ -11,10 +11,11 @@ A brief description of what this project does and who it's for
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
+- Isometric view
+- Choices matter, with infinite trees of choices
 - Fullscreen mode
-- Cross platform
+- Post-apocalyptic theme
+- Unique graphical style
 
 
 ## Snippets
@@ -436,12 +437,4 @@ public class PromptHide : MonoBehaviour
 </details>
 
 
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Demo
-
-Insert gif or link to demo
 
