@@ -1,7 +1,7 @@
 
 # Bunker Boys
 
-A text adventure with a highly-repeatable template system
+A text adventure with a highly-repeatable template system and node-based elements. Developers can create empty story objects (or nodes), which may be filled and added to the tree. Since the story is in the form of a hierachical tree, all plots start from the initial node. At this point, a developer may add an indefnite number of connecting nodes, or 'story-elements.' With this design, all plot lines may continue for as long as needed. This allows for many different final story endings, side missions, dead ends, and special scenarios. Games like FTL and Slay The Spire have a similar staging system, usually connected to the viewable map.
 
 
 ## Screenshots
