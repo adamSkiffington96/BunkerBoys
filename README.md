@@ -14,6 +14,8 @@
 
 ![App Screenshot](https://i.imgur.com/jrkuBpN.jpeg)
 
+- The information for each point in the story may be entered into a newly created object, where you may also add its connections
+
 ![App Screenshot](https://i.imgur.com/BldBhag.png)
 
 
