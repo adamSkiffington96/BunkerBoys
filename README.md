@@ -13,6 +13,8 @@
 
 ![App Screenshot](https://i.imgur.com/jrkuBpN.jpeg)
 
+![App Screenshot](https://i.imgur.com/BldBhag.png)
+
 
 ## Features
 
